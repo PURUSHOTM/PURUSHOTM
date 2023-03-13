@@ -23,9 +23,9 @@
 
 
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=purushotm&show_icons=true&locale=en" alt="purushotm" />
+ <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=purushotm&show_icons=true&locale=en" alt="purushotm" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purushotm&" alt="purushotm" />
+<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=purushotm&" alt="purushotm" />
 
 
 ## 🧑‍💻 Leetcode Stats
