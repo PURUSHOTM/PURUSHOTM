@@ -1,131 +1,233 @@
 <div align="center">
 
-# Hello, I'm Purushottam Kumar 👋
-
-### Full Stack Developer | React • Next.js • React Native • Node.js
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&width=600&lines=Crafting+scalable+digital+solutions;Building+modern+web+%26+mobile+experiences;Passionate+about+clean+code+%26+innovation" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purushotm)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkkashyap110@gmail.com)
+<!-- Custom Header with Gradient Background -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Purushottam%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Innovator&descAlignY=60&descSize=20"/>
 
 </div>
 
----
+<!-- Animated Introduction -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=🚀+Transforming+Ideas+into+Digital+Reality;💡+2%2B+Years+of+Innovation+%26+Excellence)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<br/>
 
-I'm a passionate **Full Stack Developer** with **2+ years** of experience building scalable web and mobile applications. I specialize in the **MERN stack** and love turning complex problems into elegant solutions.
+<!-- Social Stats Row -->
+<img src="https://komarev.com/ghpvc/?username=purushotm&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/purushotm?label=Followers&style=for-the-badge&color=00d4ff&labelColor=1c1c1c" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d4ff?style=for-the-badge&labelColor=1c1c1c" alt="Focus" />
 
-🎯 **Current Focus:** Advanced React patterns, AI integrations, and performance optimization  
-💼 **Experience:** Former Software Engineer at **iBarts Pvt Ltd** | Ex-TA at **Coding Ninjas**  
-🧩 **Problem Solver:** 450+ student queries resolved | Active on competitive programming platforms  
-📚 **Mindset:** Continuous learner, always exploring cutting-edge technologies
+</div>
 
----
+<br/>
 
-## 🛠️ Technical Arsenal
-
+<!-- Unique About Section with Custom Design -->
 <div align="center">
 
-### **Languages & Core Technologies**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **About Me**
 
 </div>
 
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```yaml
+name: Purushottam Kumar
+role: Full Stack Developer
+location: India
+experience: 2+ years
+specialty: ["MERN Stack", "React Native", "AI Integration"]
+
+current_focus:
+  - Advanced React Patterns
+  - System Design & Architecture  
+  - AI-Powered Applications
+  - Performance Optimization
+
+achievements:
+  - Former Software Engineer @ iBarts Pvt Ltd
+  - Ex-Teaching Assistant @ Coding Ninjas
+  - 450+ student queries resolved
+  - Multiple full-stack applications deployed
+
+philosophy: "Code is poetry, bugs are just unfinished verses"
+```
+
+<br clear="right"/>
+
 ---
 
-## 🎯 Featured Projects
-
+<!-- Tech Stack with Custom Animations -->
 <div align="center">
 
-### 🤖 [AI Email Template Builder](https://v0-next-js-email-builder-omega.vercel.app/)
-**Next.js • TypeScript • Tailwind CSS • Google Gemini API • DnD-kit**
+## 🛠️ **Technology Universe**
 
-*Intelligent drag-and-drop email editor with AI-powered content generation, undo/redo functionality, and clean HTML export*
+<!-- Frontend Technologies -->
+### <img src="https://media.giphy.com/media/QssGEmpSoKM2Q/giphy.gif" width="24"> **Frontend Mastery**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://v0-next-js-email-builder-omega.vercel.app/)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux&theme=dark" />
+</p>
 
----
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="24"> **Backend & Database**
 
-### 🌐 [EzVyapaar B2B Marketplace](https://ezvyapaar.com)
-**React.js • Supabase • Redis • Socket.io • Razorpay**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis,graphql&theme=dark" />
+</p>
 
-*Enterprise-grade B2B marketplace with real-time chat, push notifications, secure payment integration, and comprehensive role-based dashboards*
+### ☁️ **Cloud & DevOps**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ezvyapaar.com)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,heroku,githubactions,linux&theme=dark" />
+</p>
+
+### 🔧 **Tools & Platforms**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
+<!-- Unique Projects Section -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=purushotm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=purushotm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purushotm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+## 🎯 **Featured Creations**
 
 </div>
 
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🤖 **AI Email Template Builder**
+**[Live Demo →](https://v0-next-js-email-builder-omega.vercel.app/)**
+
+```typescript
+const features = {
+  tech: ["Next.js", "TypeScript", "Tailwind", "Gemini AI"],
+  highlights: [
+    "🎨 Drag & Drop Interface",
+    "🧠 AI Content Generation", 
+    "⚡ Real-time Preview",
+    "📱 Responsive Design"
+  ]
+}
+```
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![AI](https://img.shields.io/badge/AI_Powered-00D4FF?style=for-the-badge&logo=openai)
+
+</td>
+<td width="50%">
+
+### 🌐 **EzVyapaar Marketplace**
+**[Visit Platform →](https://ezvyapaar.com)**
+
+```javascript
+const architecture = {
+  tech: ["React", "Supabase", "Redis", "Socket.io"],
+  features: [
+    "💬 Real-time Chat System",
+    "🔒 Secure Payments (Razorpay)",
+    "📊 Analytics Dashboard",
+    "🔔 Push Notifications"
+  ]
+}
+```
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🧠 Competitive Programming
-
+<!-- GitHub Stats Section with Unique Layout -->
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/pkkashyap?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats"/>
+## 📊 **Code Analytics & Performance**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/pkkashyap)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pkkashyap110)
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=purushotm&show_icons=true&theme=radical&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=purushotm&theme=radical&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" />
+
+<img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=purushotm&layout=compact&theme=radical&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117&langs_count=10&exclude_repo=repo1,repo2" />
 
 </div>
 
----
-
-## 🤝 Let's Connect & Collaborate
-
+<!-- Activity Graph -->
 <div align="center">
 
-I'm always interested in discussing new opportunities, innovative projects, and tech collaborations. Feel free to reach out!
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=purushotm&custom_title=Contribution%20Graph&bg_color=0d1117&color=ffffff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/purushotm)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkkashyap110@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purushotm)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/purusho51538835)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_pk_kashyap_)
+</div>
 
 ---
 
-⭐ **"Code is poetry written in logic"** ⭐
+<!-- Coding Stats -->
+<div align="center">
 
-*Building the future, one commit at a time*
+
+
+**Competitive Programming Profiles:**
+
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpkkashyap&logo=leetcode&logoColor=yellow)](https://leetcode.com/pkkashyap/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pkkashyap110)
 
 </div>
+
+---
+
+<!-- Skills Visualization -->
+<div align="center">
+
+## 🎨 **Skills Radar**
+
+```javascript
+const skillLevel = {
+    "Frontend Development": "████████████████████ 95%",
+    "Backend Architecture": "██████████████████   90%", 
+    "Database Design":      "███████████████████  85%",
+    "Cloud Deployment":     "██████████████████   88%",
+    "Problem Solving":      "████████████████████ 92%",
+    "System Design":        "█████████████████    80%"
+}
+```
+
+</div>
+
+---
+
+<!-- Connect Section with Animation -->
+<div align="center">
+
+## 🤝 **Let's Build Something Amazing Together**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50"/>
+
+**Open for collaborations • Freelance projects • Full-time opportunities**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:pkkashyap110@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/purushotm)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/purusho51538835)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/_pk_kashyap_)
+
+<br/>
+
+---
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"/>
+**"Innovation distinguishes between a leader and a follower"**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"/>
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
